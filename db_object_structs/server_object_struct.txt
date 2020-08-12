@@ -1,0 +1,7 @@
+{
+"proper" : true/false,
+"dns" : "",
+"groups" : [],
+"os_type" : "",
+"last_fault" : "YYYYMMDDhhmmss"
+}
