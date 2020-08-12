@@ -1,8 +1,0 @@
-{
-"proper" : true/false,
-"probes" : ["http://db.api/probes/probe1","http://db.api/probes/probe2"]
-"methods" : [],
-"rollbacks": [],
-"name" : "",
-"targets" : [],
-}
