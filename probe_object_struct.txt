@@ -1,0 +1,6 @@
+{
+"proper":true/false,
+"name":"",
+"path":"http://db.api/probes/probe1.py",
+"targets":["linux_servers","web_servers","apache_servers"]
+}
